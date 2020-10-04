@@ -1,0 +1,8 @@
+test.diff
+/.idea/
+*.iml
+*.diff
+*.pyc
+*.exe
+**/logs/
+**/__pycache__/
